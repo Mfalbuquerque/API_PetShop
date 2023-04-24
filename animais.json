@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "tipo": "cachorro",
+        "nascimento": "20/05/20",
+        "castrado": true,
+        "vacina_raiva": true,
+        "nome": "cleiton",
+        "dono": "jurema"
+    },
+    {
+        "id": 2,
+        "tipo": "passarinho",
+        "nascimento": "01/12/22",
+        "castrado": false,
+        "vacina_raiva": false,
+        "nome": "boris",
+        "dono": "judit"
+    },
+    {
+        "id": 3,
+        "tipo": "gato",
+        "nascimento": "12/08/08",
+        "castrado": true,
+        "vacina_raiva": true,
+        "nome": "estevão",
+        "dono": "ferreira"
+    }
+]
